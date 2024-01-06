@@ -1,19 +1,14 @@
-/* FILEPATH: /c:/Users/adfox/Webpage/styles.css */
-
-/* Reset default styles */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Set default font and color */
 body {
   font-family: 'Poppins', sans-serif;
   color: #333;
 }
 
-/* Set a max-width for the content */
 .container {
   max-width: 750px;
   margin: 25px auto;
